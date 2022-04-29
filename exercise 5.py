@@ -1,5 +1,5 @@
 #1. Create a greeting for your program.
-print("***Welcome to WY-Airline***\n")
+print("***Welcome to Brand Name Generator***\n")
 #2. Ask the user for the city that they grew up in.
 born_city = input("what city did you grow up in? ")
 #3. Ask the user for the name of a pet.
